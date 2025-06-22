@@ -122,5 +122,3 @@ A full-stack note-keeping application that allows users to store and manage note
     Deepak Bhardwaj
     GitHub: @iamdeepak199
 
-
-Let me know if you’d like a [`.env` example file](f) or a [basic CRUD Postman collection export](f).
